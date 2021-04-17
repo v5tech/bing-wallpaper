@@ -1,0 +1,42 @@
+# This workflow will build a Java project with Maven
+# For more information see: https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-maven
+
+name: Java CI with Maven
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: 0 */6 * * * 
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up JDK 8
+        uses: actions/setup-java@v2
+        with:
+          java-version: '8'
+          distribution: 'adopt'
+      - name: Build with Maven
+        run: mvn -B package --file pom.xml
+      - name: Run Java Application
+        run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
+      - name: Commit files
+        run: |
+          git config --local user.email "sxyx2008@163.com"
+          git config --local user.name "github-actions"
+          git add README.md
+          git add bing-wallpaper.md
+          git commit -m "Update README.md & bing-wallpaper.md"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
