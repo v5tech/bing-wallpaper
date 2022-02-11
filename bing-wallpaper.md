@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-02-11 | [The Old City of Bern, Switzerland (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.SnowyBern_EN-US4213051884_UHD.jpg)
+
 2022-02-11 | [The Old City of Bern, Switzerland (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.SnowyBern_EN-US4094122962_UHD.jpg)
 
 2022-02-10 | [The Ceremony Hall of Icehotel in Jukkasjarvi, Sweden (© Wolfgang Kaehler/LightRocket via Getty Images)](https://cn.bing.com/th?id=OHR.JukkasjarviIcehotel_EN-US2915409149_UHD.jpg)
