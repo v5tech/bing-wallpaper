@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-02-16 | [Red lanterns hanging on trees during the Lantern Festival in Chengdu, Sichuan, China (© Philippe Lejeanvre/Getty Images)](https://cn.bing.com/th?id=OHR.ChengduLanterns_EN-US7601052983_UHD.jpg)
+
 2022-02-15 | [Heart-shaped island with sandy beach, offshore coral reef, Indian Ocean, Maldives (© Willyam Bradberry/Shutterstock)](https://cn.bing.com/th?id=OHR.MaldivesHeart_EN-US8259467454_UHD.jpg)
 
 2022-02-15 | [Heart-shaped island with sandy beach, offshore coral reef, Indian Ocean, Maldives (© Willyam Bradberry/Shutterstock)](https://cn.bing.com/th?id=OHR.MaldivesHeart_EN-US7219773610_UHD.jpg)
