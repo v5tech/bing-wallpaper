@@ -37,7 +37,7 @@ public class Wallpaper {
         // 请求网络图片
         String resp = HttpUtil.get(BING_API);
         // 解析成 Image对象
-        Image image = fetch(resp);
+        Image image = parse(resp);
         // 在imageList下标为0的位置插入image
         imageList.add(0, image);
         // 写入bing-wallpaper.md文件
@@ -66,7 +66,7 @@ public class Wallpaper {
      * @param resp
      * @return
      */
-    private static Image fetch(String resp) {
+    private static Image parse(String resp) {
         JSONObject jsonObject = JSONUtil.parseObj(resp);
         JSONObject images = jsonObject.getJSONArray("images").get(0, JSONObject.class);
 
