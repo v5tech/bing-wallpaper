@@ -55,7 +55,7 @@ public class Wallpaper {
     private static List<Image> last7Days(List<Image> imageList) {
         for (int i = 0; i < 8; i++) {
             String resp = HttpUtil.get(String.format(BING_7DAYS_API, i));
-            imageList.add(fetch(resp));
+            imageList.add(parse(resp));
         }
         return imageList;
     }
