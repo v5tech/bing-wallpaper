@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-07-16 | [向日葵上的金翅雀，美国南卡罗来纳州 (© Teresa Kopec/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanGoldfinch_ZH-CN2996912015_UHD.jpg)
+
 2022-07-16 | [The village of Arrone in Umbria, Italy (© Maurizio Rellini/eStock Photo)](https://cn.bing.com/th?id=OHR.Arrone_EN-US2438328393_UHD.jpg)
 
 2022-07-15 | [Baby lemon sharks swimming among mangroves near Alice Town, Bimini, Bahamas (© Ken Kiefer 2/Getty Images)](https://cn.bing.com/th?id=OHR.BabyLemons_EN-US8232804860_UHD.jpg)
