@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2022-10-09 | [Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg)
+
 2022-10-08 | [Designs projected on the Oberbaum Bridge during the yearly Festival of Lights in Berlin, Germany (© John MacDougall/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.OberbaumBridge_EN-US6324390642_UHD.jpg)
 
 2022-10-07 | [Basque Coast Geopark in the Bay of Biscay near Bilbao, Spain (© Olimpio Fantuz/eStock Photo)](https://cn.bing.com/th?id=OHR.BayofBiscay_EN-US8933430968_UHD.jpg)
