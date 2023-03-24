@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-03-25 | [Blooming wild garlic, Hainich National Park, Germany (© Frank Sommariva/Getty Images)](https://cn.bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg)
+
 2023-03-24 | [Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)](https://cn.bing.com/th?id=OHR.CloudsPatagonia_EN-US4941579050_UHD.jpg)
 
 2023-03-23 | [Lake Powell on the Colorado River (© Peter Schaefer/Alamy)](https://cn.bing.com/th?id=OHR.LakePowellAerial_EN-US5762979140_UHD.jpg)
