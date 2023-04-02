@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-04-03 | [Bromo Tengger Semeru National Park, East Java, Indonesia (© Bento Fotography/Getty Images)](https://cn.bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg)
+
 2023-04-02 | [Javan tree frog (© kuritafsheen/Getty Images)](https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg)
 
 2023-04-01 | [Steyr River, Austria (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg)
