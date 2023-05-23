@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-05-24 | [Western box turtle (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg)
+
 2023-05-23 | [Arenal Volcano seen from Monteverde, Costa Rica (© Kevin Wells/Getty Images)](https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg)
 
 2023-05-22 | [Pont d’Arcole on the Seine river, Paris, France (© StockByM/Getty Images)](https://cn.bing.com/th?id=OHR.PontdArcole_EN-US2477179777_UHD.jpg)
