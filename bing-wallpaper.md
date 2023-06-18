@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-06-19 | [Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg)
+
 2023-06-18 | ['Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)](https://cn.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg)
 
 2023-06-17 | [Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)](https://cn.bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_UHD.jpg)
