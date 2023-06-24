@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-06-25 | [Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg)
+
 2023-06-24 | [Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)](https://cn.bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg)
 
 2023-06-23 | [Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images)](https://cn.bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_UHD.jpg)
