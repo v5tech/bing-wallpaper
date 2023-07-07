@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-07-08 | [Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)](https://cn.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg)
+
 2023-07-07 | [Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images)](https://cn.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg)
 
 2023-07-06 | [Porto Timoni beach, Corfu, Greece (© nantonov/Getty Images)](https://cn.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg)
