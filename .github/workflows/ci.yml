@@ -30,7 +30,7 @@ jobs:
         run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
       - name: Commit files
         run: |
-          git config --local user.email "sxyx2008@163.com"
+          git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
           git add README.md
           git add bing-wallpaper.md
