@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-09-13 | [North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)](https://cn.bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg)
+
 2023-09-12 | [Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© ANDREY DENISYUK/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg)
 
 2023-09-11 | [Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg)
