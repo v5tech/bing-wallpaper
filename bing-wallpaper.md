@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-09-15 | [Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg)
+
 2023-09-14 | [Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)](https://cn.bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg)
 
 2023-09-13 | [North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)](https://cn.bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg)
