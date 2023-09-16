@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-09-17 | [A beer tent at Oktoberfest in Theresienwiese, Munich, Germany (© Peter Kneffel/picture alliance via Getty Images)](https://cn.bing.com/th?id=OHR.OktoberfestWorkers_EN-US5478786117_UHD.jpg)
+
 2023-09-16 | [Mission church ruins at Quarai, Salinas Pueblo Missions National Monument, New Mexico (© Thomas Roche/Getty Images)](https://cn.bing.com/th?id=OHR.MissionRuins_EN-US2486545022_UHD.jpg)
 
 2023-09-15 | [Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg)
