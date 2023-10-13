@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-10-14 | [Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)](https://cn.bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg)
+
 2023-10-13 | [Old barn and canola field, Palouse region, Washington (© Terry Eggers/Getty Images)](https://cn.bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg)
 
 2023-10-13 | [Old barn and canola field, Palouse region, Idaho (© Terry Eggers/Getty Images)](https://cn.bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg)
