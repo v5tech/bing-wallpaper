@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-10-19 | [Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg)
+
 2023-10-18 | [Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)](https://cn.bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg)
 
 2023-10-17 | [Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg)
