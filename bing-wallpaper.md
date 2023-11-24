@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-11-25 | [Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)](https://cn.bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg)
+
 2023-11-24 | [Flint corn (© Cynthia Liang/Shutterstock)](https://cn.bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg)
 
 2023-11-23 | [Grand Teton National Park, Wyoming (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg)
