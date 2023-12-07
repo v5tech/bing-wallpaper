@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2023-12-08 | [USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii (© Douglas Peebles Photography/Alamy)](https://cn.bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg)
+
 2023-12-07 | [The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)](https://cn.bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg)
 
 2023-12-06 | [Neuschwanstein and Hohenschwangau castles, Bavarian Alps, Germany (© Harald Nachtmann/Getty Images)](https://cn.bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_UHD.jpg)
