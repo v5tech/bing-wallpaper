@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-02-05 | [Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)](https://cn.bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg)
+
 2024-02-04 | [Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_UHD.jpg)
 
 2024-02-03 | [Marmot peeking out of its burrow (© Scacciamosche/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg)
