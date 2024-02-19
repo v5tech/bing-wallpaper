@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-02-20 | [Lincoln Memorial, Washington, DC (© Steve Whiston/Fallen Log Photography/Getty Images)](https://cn.bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_UHD.jpg)
+
 2024-02-19 | [Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)](https://cn.bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg)
 
 2024-02-18 | [The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York (© STAN HONDA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.AileyUptown_EN-US7790191198_UHD.jpg)
