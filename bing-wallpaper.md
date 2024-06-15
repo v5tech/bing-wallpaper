@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-06-16 | [Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](https://cn.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg)
+
 2024-06-15 | [Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)](https://cn.bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg)
 
 2024-06-14 | [Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)](https://cn.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg)
