@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-07-29 | [Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)](https://cn.bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg)
+
 2024-07-28 | [Vineyards in the Mosel Valley, Rhineland-Palatinate, Germany (© Jorg Greuel/Getty Images)](https://cn.bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg)
 
 2024-07-27 | [Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg)
