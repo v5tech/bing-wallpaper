@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-08-09 | [Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)](https://cn.bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg)
+
 2024-08-08 | [St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg)
 
 2024-08-07 | [Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)](https://cn.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg)
