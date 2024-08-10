@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-08-11 | [Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg)
+
 2024-08-10 | [Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)](https://cn.bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg)
 
 2024-08-09 | [Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)](https://cn.bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg)
