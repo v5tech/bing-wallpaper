@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-09-26 | [Giant sequoias, Sequoia National Park, California (© Galyna Andrushko/Shutterstock)](https://cn.bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg)
+
 2024-09-25 | [Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)](https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg)
 
 2024-09-24 | [Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg)
