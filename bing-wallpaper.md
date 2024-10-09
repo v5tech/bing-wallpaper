@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-10-10 | [Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg)
+
 2024-10-09 | [Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)](https://cn.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg)
 
 2024-10-08 | [The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)](https://cn.bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg)
