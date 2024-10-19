@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-10-20 | [Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg)
+
 2024-10-19 | [Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)](https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg)
 
 2024-10-18 | [Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)](https://cn.bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg)
