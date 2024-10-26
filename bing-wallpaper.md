@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-10-27 | [Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg)
+
 2024-10-26 | [The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)](https://cn.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg)
 
 2024-10-25 | [Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)](https://cn.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg)
