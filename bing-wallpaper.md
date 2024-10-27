@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-10-28 | [Polar bear mom and cub, Churchill, Manitoba, Canada (© Design Pics/plainpicture)](https://cn.bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_UHD.jpg)
+
 2024-10-27 | [Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg)
 
 2024-10-26 | [The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)](https://cn.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg)
