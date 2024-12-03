@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-12-04 | [Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)](https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg)
+
 2024-12-03 | [Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg)
 
 2024-12-02 | [Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg)
