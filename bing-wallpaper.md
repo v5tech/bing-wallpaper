@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2024-12-11 | [The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)](https://cn.bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg)
+
 2024-12-10 | [Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.GuanacosChile_EN-US8209106662_UHD.jpg)
 
 2024-12-09 | [Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)](https://cn.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg)
