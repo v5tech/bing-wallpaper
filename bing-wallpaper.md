@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-01-22 | [Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)](https://cn.bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg)
+
 2025-01-21 | [Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)](https://cn.bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg)
 
 2025-01-20 | [Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)](https://cn.bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg)
