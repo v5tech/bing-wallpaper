@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-02-18 | [The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)](https://cn.bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg)
+
 2025-02-17 | [Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg)
 
 2025-02-16 | [Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)](https://cn.bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg)
