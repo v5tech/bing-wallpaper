@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-03-05 | [Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg)
+
 2025-03-04 | [Southern yellow-billed hornbills in Kruger National Park, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.HornbillPair_EN-US3168408482_UHD.jpg)
 
 2025-03-03 | [Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg)
