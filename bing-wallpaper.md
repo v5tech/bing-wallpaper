@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-04-04 | [Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg)
+
 2025-04-03 | [Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg)
 
 2025-04-02 | [Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg)
