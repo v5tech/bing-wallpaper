@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-04-14 | [Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg)
+
 2025-04-13 | [View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)](https://cn.bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg)
 
 2025-04-12 | [Tulip fields in Netherlands (© 1111IESPDJ/Getty Images)](https://cn.bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg)
