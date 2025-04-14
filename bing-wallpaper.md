@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-04-15 | [Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal (© Jordi Chias/Minden Pictures)](https://cn.bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg)
+
 2025-04-14 | [Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg)
 
 2025-04-13 | [View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)](https://cn.bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg)
