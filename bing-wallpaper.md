@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-05-12 | [Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg)
+
 2025-05-11 | [Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg)
 
 2025-05-10 | [Common chameleon (© Photostock-Israel/SPL/Getty Images)](https://cn.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg)
