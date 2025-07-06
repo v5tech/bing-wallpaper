@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-07-07 | [Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg)
+
 2025-07-06 | [Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg)
 
 2025-07-05 | [Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg)
