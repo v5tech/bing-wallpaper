@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-07-18 | [Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg)
+
 2025-07-17 | [Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg)
 
 2025-07-16 | [Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)](https://cn.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg)
