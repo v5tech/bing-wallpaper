@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-08-15 | [Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)](https://cn.bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg)
+
 2025-08-14 | [A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CoronaArch_EN-US8928406175_UHD.jpg)
 
 2025-08-13 | [African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg)
