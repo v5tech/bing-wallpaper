@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-09-13 | [Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg)
+
 2025-09-12 | [Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)](https://cn.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg)
 
 2025-09-11 | [Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg)
