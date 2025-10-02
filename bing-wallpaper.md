@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-10-03 | [Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock)](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg)
+
 2025-10-02 | [Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)
 
 2025-10-01 | [Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)](https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg)
