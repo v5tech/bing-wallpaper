@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-10-10 | [The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)](https://cn.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg)
+
 2025-10-09 | [Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)](https://cn.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg)
 
 2025-10-08 | [Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg)
