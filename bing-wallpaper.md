@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-10-12 | [Wood duck hen (© ps50ace/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg)
+
 2025-10-11 | [Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)](https://cn.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg)
 
 2025-10-10 | [The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)](https://cn.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg)
