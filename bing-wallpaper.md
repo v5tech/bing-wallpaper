@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-10-24 | [Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg)
+
 2025-10-23 | [Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)](https://cn.bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg)
 
 2025-10-22 | [A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)](https://cn.bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg)
