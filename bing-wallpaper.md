@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-12-04 | [Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg)
+
 2025-12-03 | [Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg)
 
 2025-12-02 | [Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)](https://cn.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg)
