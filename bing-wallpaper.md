@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-12-10 | [Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)](https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg)
+
 2025-12-09 | [Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg)
 
 2025-12-08 | [USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)](https://cn.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg)
