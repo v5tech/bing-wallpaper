@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-12-29 | [Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)](https://cn.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg)
+
 2025-12-28 | [Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)](https://cn.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg)
 
 2025-12-27 | [Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg)
