@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2025-12-30 | [St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](https://cn.bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg)
+
 2025-12-29 | [Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)](https://cn.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg)
 
 2025-12-28 | [Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)](https://cn.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg)
