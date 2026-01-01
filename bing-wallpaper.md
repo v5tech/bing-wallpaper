@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-01-02 | [Arctic fox sleeping (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg)
+
 2026-01-01 | [New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)](https://cn.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg)
 
 2025-12-31 | [Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)](https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg)
