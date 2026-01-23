@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-01-24 | [Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg)
+
 2026-01-23 | [Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)](https://cn.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg)
 
 2026-01-22 | [Eurasian red squirrel (© Galina Jacyna/Getty Images)](https://cn.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg)
