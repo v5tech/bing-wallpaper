@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-01-28 | [Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)](https://cn.bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg)
+
 2026-01-27 | [Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)](https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg)
 
 2026-01-26 | [Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)](https://cn.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg)
