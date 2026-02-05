@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-02-06 | [Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)](https://cn.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg)
+
 2026-02-05 | [Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)](https://cn.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg)
 
 2026-02-04 | [Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)
