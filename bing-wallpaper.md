@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-02-22 | [Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)](https://cn.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg)
+
 2026-02-21 | [Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)](https://cn.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg)
 
 2026-02-20 | [The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)](https://cn.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg)
