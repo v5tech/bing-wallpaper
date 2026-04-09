@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-04-10 | [Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg)
+
 2026-04-09 | [Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg)
 
 2026-04-08 | [Beaver, Germany (© Andyworks/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg)
