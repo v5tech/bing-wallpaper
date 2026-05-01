@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-05-02 | [Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg)
+
 2026-05-01 | [Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg)
 
 2026-04-29 | [Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)](https://cn.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg)
