@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-05-17 | [Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)](https://cn.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg)
+
 2026-05-16 | [A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg)
 
 2026-05-15 | [Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)](https://cn.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_UHD.jpg)
