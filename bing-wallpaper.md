@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-05-19 | [Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg)
+
 2026-05-18 | [Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg)
 
 2026-05-17 | [Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)](https://cn.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg)
