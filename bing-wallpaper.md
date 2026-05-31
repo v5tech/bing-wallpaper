@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-05-31 | [Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg)
+
 2026-05-30 | [Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)](https://cn.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg)
 
 2026-05-29 | [Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)](https://cn.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg)
