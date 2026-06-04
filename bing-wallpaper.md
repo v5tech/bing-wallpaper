@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-06-04 | [Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)
+
 2026-06-03 | [Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)
 
 2026-06-02 | [Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)](https://cn.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg)
