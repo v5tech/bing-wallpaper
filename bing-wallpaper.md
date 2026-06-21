@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-06-21 | [Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)](https://cn.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg)
+
 2026-06-20 | [National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)](https://cn.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg)
 
 2026-06-19 | [Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)](https://cn.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg)
