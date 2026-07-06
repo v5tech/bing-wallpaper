@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-07-06 | [Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg)
+
 2026-07-05 | [Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg)
 
 2026-07-04 | [Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg)
