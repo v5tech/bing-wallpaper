@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-07-07 | [Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg)
+
 2026-07-06 | [Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg)
 
 2026-07-05 | [Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg)
