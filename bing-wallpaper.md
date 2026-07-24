@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-07-24 | [Pink dahlia flower (© Harald Biebel/Getty Images)](https://cn.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg)
+
 2026-07-23 | [Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg)
 
 2026-07-22 | [Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg)
