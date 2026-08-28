@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-08-28 | [Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg)
+
 2026-08-27 | [Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg)
 
 2026-08-26 | [Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg)
