@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-09-07 | [Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)](https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg)
+
 2026-09-06 | [Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg)
 
 2026-09-05 | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg)
