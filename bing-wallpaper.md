@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-09-08 | ['Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)](https://cn.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg)
+
 2026-09-07 | [Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)](https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg)
 
 2026-09-06 | [Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg)
