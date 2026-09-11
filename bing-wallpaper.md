@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-09-11 | [Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg)
+
 2026-09-10 | [Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg)
 
 2026-09-09 | [Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg)
