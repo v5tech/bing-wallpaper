@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-11-06 | [Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)](https://cn.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg)
+
 2026-11-05 | [People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg)
 
 2026-11-04 | [Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg)
