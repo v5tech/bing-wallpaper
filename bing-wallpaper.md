@@ -1,5 +1,7 @@
 ## Bing Wallpaper
 
+2026-11-24 | [Fiddlehead fern (© Reza Saputra/Getty Images)](https://cn.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg)
+
 2026-11-23 | [The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)](https://cn.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg)
 
 2026-11-21 | [Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](https://cn.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg)
